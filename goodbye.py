@@ -1,3 +1,5 @@
+### python GUI design playground, NOT included in final build ###
+
 from tkinter import *
 
 def sel():

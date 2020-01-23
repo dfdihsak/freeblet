@@ -1,8 +1,8 @@
-import tkinter as tk
+import tkinter as tk  
 import tkinter.filedialog
-import pyautogui
-import cv2
-import numpy as np
+import pyautogui    # pip3 install PyAutoGUI
+import cv2          # pip3 install opencv-python
+import numpy as np  # pip3 install numpy
 from thinning import guo_hall_thinning  # pip3 install thinning_py3
 
 points = []
