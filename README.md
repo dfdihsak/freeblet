@@ -5,4 +5,5 @@ Freeblet w/ gui
 - hello.py -> main script. thinning algorithms + output display
 - goodbye.py -> testing for tkinter, not to be included when running setup
 - setup.py -> packages script into executable with [py2app](https://py2app.readthedocs.io/en/latest/)
+
 Turn photos of paper drawings into digital stroke! Read more + download the package [here](https://freeblet.com/)
